@@ -1,1 +1,2 @@
-# 5_Basics_of_OOP
+# epam-training
+Условия задач описаны в комментариях Main-класса
